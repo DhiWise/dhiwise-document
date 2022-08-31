@@ -37,10 +37,14 @@ Go to the screen list, and click on `Preview` button.
 As you click on it, it will start to build your design code, within few minutes it will show you a page where you can check or preview your app design, as shown below;
 
 :::info
-Select the device on which you want to preview your design easily, and check how it fits in.
+Switch between different devices’ resolutions easily, and check how it fits in.
 :::
 
-On the preview page, you can click on `View all screen list` to switch between different screens and check each screen’s UI easily.
+On the Preview page, you can switch between different screens and preview them live here and check each screen’s UI easily.
+
+### Shareable Preview
+
+Easily share the generated preview with your teams for your app in DhiWise, by simply copying the generated link from here in the top right corner.
 
 ![Example banner](./images/flutter-perview.gif)
 

@@ -36,6 +36,18 @@
   font-weight: 400;
   font-family: 'Inter', sans-serif;
 }
+.linkTag{
+  margin-top: 4px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+.linkTag img{
+  width: 16px;
+  height: 16px;
+  transform: rotate(-45deg);
+  margin-left: 5px;
+}
 
 .primaryButton{
   background-color: #0061ff;

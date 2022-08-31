@@ -11,7 +11,7 @@ The lifecycle of the Flutter app is how the application will change its **state
 Select the screen from the screen list on which you want to set up the lifecycle.
 
 #### **Step 2:** 
-Click on **Add on Ready lifecycle** available in the top left corner below the screen selection dropdown or simply press `Ctrl + L` to set up lifecycle for a screen.
+Click on **Setup onReady method call** available in the top left corner below the screen selection dropdown or simply press `Ctrl + L` to set up lifecycle for a screen.
 
 ![Example banner](./images/Life-cycle-1.gif)
 

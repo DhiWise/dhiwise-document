@@ -3,6 +3,9 @@ sidebar_position: 12
 ---
 
 # Set Hyperlink
+:::info
+Currently, this feature is not available on <a href="https://app.dhiwise.com/sign-up" target="_blank">app.dhiwise.com.</a> Stay tuned!
+:::
 
 Most mobile applications provide links that take users to a different section of the same app or to external websites. **Set Hyperlink** helps us in achieving this in our Flutter application.
 ## How to setup hyperlink

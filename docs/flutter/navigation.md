@@ -18,7 +18,7 @@ As you choose **Navigation** action, firstly it will ask you to submit a proper 
 ![Example banner](./images/Add-navigation-name.png)
 
 #### **Step 3:** 
-You will need to provide input for `Which type of Navigation` you want to perform, where you will have to add the type of Navigation, from the below supported types;
+You will need to provide input for `Please choose the type of navigation you want to add` you want to perform, where you will have to add the type of Navigation, from the below supported types;
 
 | Type | Description |
 | --- | --- |
@@ -32,12 +32,12 @@ You will need to provide input for `Which type of Navigation` you want to perfor
 #### **Step 4:** 
 If you are selecting **Screen Navigation** you will be asked `Choose the screen on which you want to navigate `, select a screen you want to navigate to from the screens list on the right, you can also filter screen from **Dialog**, **BottomSheet**, and **Screens**.
 
-Once your screen is selected, you will be asked to **Add finish screen**.
+Once your screen is selected, you will be asked to **Select Finish screen**.
 
 ![Example banner](./images/navigate4.png)
 
 #### **Step 5:** 
-As you click on `Add finish screen`  you will be asked to `Select type` from the following:
+As you click on `Select Finish screen`  you will be asked to `Select Option` from the following:
 
 | Type | Description |
 | --- | --- |
@@ -107,7 +107,7 @@ onTapImgHome() {
 Perform data sharing between screens, in a few simple steps, while navigating from one screen to the other.
 
 #### **Step 1:** 
-Pass data as an **argument** while navigating from one screen to another, press `Ctrl + Enter`. Next, add arguments where you need to `Enter key` which will be passed as an argument. The key is used as a **name** for an argument to declare it in your code.
+Pass data as an **argument** while navigating from one screen to another, press `Ctrl + Enter`. Next, add arguments where you need to `Enter name for key` which will be passed as an argument. The key is used as a **name** for an argument to declare it in your code.
 
 #### **Step 2:** 
 `Select argument type` here you need to select the type of argument you want to bind with navigation from the following:
@@ -123,9 +123,13 @@ If we go with **API response** you will be asked to `Select API` from the APIs a
 
 #### **Step 4:** 
 Next, you need to `Select API response` for the selected API. Choose the response key to bind with your argument from the list. However, you can also bind multiple keys in your argument.
-F
+
 #### **Step 5:** 
 Once you add an argument, save your changes by clicking on `Save changes` in the top right corner. 
+
+:::info
+If you want to add a new argument press `Ctrl + N`
+::: 
 
 At this stage, you have successfully added navigation with arguments to your application.
 

@@ -7,6 +7,9 @@ import check from "./img/check-mark.png"
 import close from "./img/close.png"
 
 # Firebase Integration
+:::info
+Currently, this feature is not available on <a href="https://app.dhiwise.com/sign-up" target="_blank">app.dhiwise.com.</a> Stay tuned!
+:::
 
 Implement backend service Firebase in your app and help your app run more effectively with it.
 
@@ -190,7 +193,7 @@ After submitting the function name, you will be asked to select a type of Fireba
 <!-- ![Example banner](./img/app.gif) -->
 
 #### **Step 4:** 
-Select the collection you want to use for your integration for `Please select Collection` from the list of collections available in your Firebase account. 
+Select the collection you want to use for your integration for `Please select a collection you want to use` from the list of collections available in your Firebase account. 
 
 #### **Step 5:** 
 `Select type of integration` 

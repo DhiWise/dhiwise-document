@@ -16,7 +16,7 @@ Select the screen from the screen list on which you want to set up alert dialog.
 Now, go to the widget or view component you want to add an alert to, and `onClick` property, choose `Show alert` which will take you to the show alert setup screen.
 
 #### **Step 3:** 
-Add input for `Which type of alert do you want to setup?` select a type from the below;
+Add input for `Please choose the type of alert you want to integrate` select a type from the below;
 <table className="table-key">
   <tbody>
     <tr>

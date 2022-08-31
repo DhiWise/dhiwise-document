@@ -4,6 +4,10 @@ sidebar_position: 9
 
 # Open Drawer
 
+:::info
+Currently, this feature is not available on <a href="https://app.dhiwise.com/sign-up" target="_blank">app.dhiwise.com.</a> Stay tuned!
+:::
+
 A drawer is an invisible side screen. It is a sliding left menu that generally contains important links in the application and occupies half of the screen when displayed. Drawer is a short menu from which you can navigate to app functionalities easily.
 
 ## How to set up open drawer
@@ -27,35 +31,6 @@ Once the screen is selected, click on `Save changes`.
 
 <!-- ![Example banner](./img/app.gif) -->
 
-#### Generated code snippet
-
-
-
-```js
-class AppRoutes {
-  static String loginPageScreen = '/login_page_screen';
-  
-  static String verifyOtpScreen = '/verify_otp_screen';
-
-  static List<GetPage> pages = [
-     GetPage(
-      name: loginPageScreen,
-      page: () => LoginPageScreen(),
-      bindings: [
-        LoginPageBinding(),
-      ],
-    ),
-    
-    GetPage(
-      name: verifyOtpScreen,
-      page: () => VerifyOtpScreen(),
-      bindings: [
-        VerifyOtpBinding(),
-      ],
-    ),
-  ];
-}
-```
 
 <br/>
 <br/>

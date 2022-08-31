@@ -10,8 +10,7 @@ Open **Dialog** or **Bottom sheet** on click of widget or view component.
 **Close dialog** action can be set up on **Dialog** and **Bottom sheet** screens. 
 :::
 
-#### 
-**Step 1:** 
+#### **Step 1:** 
 Go to a dialog or bottom sheet screen, and switch to the widget or view component on which you want to add the close dialog action.
 
 #### **Step 2:** 

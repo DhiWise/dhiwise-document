@@ -208,8 +208,9 @@ Styling is used to manage the theme of an app. Styling includes the app’s colo
 
 ### 3. Screen Navigation Bar
 Navigate between application screens, select the one and make changes to it.
-
-#### **Refresh:**
+#### **Search Screen:**
+Easily search the screen from the list with its screen name and switch to the screen.
+#### **Figma Refresh:**
 Open the Screen Navigation Bar on the topmost left corner, and Click on the 🔄 icon in the screen selection dropdown to apply the latest Figma design changes to the old design in DhiWise.
 
 - Once you click it, you will get a list of screens available in your Figma design. Also, the last synced screens will be displayed for your convenience.
@@ -260,88 +261,44 @@ If your keyboard has a layout other than English, DhiWise may not detect all the
 
 :::
 
-<Tabs groupId="tabs">
-  <TabItem value="Window" label="Window" default>
-      <table className="keyboard-shortcute">
-        <tbody>
-          <tr>
-            <th>Shortcut</th>
-            <th>Action</th>
-          </tr>
-          <tr>
-            <td>
-            <kbd>Ctrl + K</kbd>
-            </td>
-            <td>Change widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>Ctrl + G</kbd></td>
-            <td>Group widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>Ctrl + Shift + G</kbd></td>
-            <td>Ungroup Widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>Ctrl + S</kbd></td>
-            <td>Save changes</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>Ctrl + Space</kbd></td>
-            <td>Quick suggestions</td>
-          </tr>
-          <tr>
-            <td><kbd>Delete</kbd></td>
-            <td>Delete widget</td>
-          </tr>
-        </tbody>
-      </table>
-  </TabItem>
-  <TabItem value="Mac" label="Mac">
-      <table className="keyboard-shortcute">
-        <tbody>
-          <tr>
-            <th>Shortcut</th>
-            <th>Action</th>
-          </tr>
-          <tr>
-            <td>
-            <kbd>⌘ + K</kbd>
-            </td>
-            <td>Change widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>⌘ + G</kbd></td>
-            <td>Group widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>⌘ + Shift + G</kbd></td>
-            <td>Ungroup Widget</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>⌘ + S</kbd></td>
-            <td>Save changes</td>
-          </tr>
-          <tr>
-            <td>
-            <kbd>⌘ + Space</kbd></td>
-            <td>Quick suggestions</td>
-          </tr>
-          <tr>
-            <td><kbd>Delete</kbd></td>
-            <td>Delete widget</td>
-          </tr>
-        </tbody>
-      </table>
-  </TabItem>
-</Tabs>
+<table className="keyboard-shortcute">
+    <tbody>
+        <tr>
+          <th>Shortcut</th>
+          <th>Action</th>
+        </tr>
+        <tr>
+          <td>
+          <kbd>Ctrl + K</kbd>
+          </td>
+          <td>Change widget</td>
+        </tr>
+        <tr>
+          <td>
+          <kbd>Ctrl + G</kbd></td>
+          <td>Group widget</td>
+        </tr>
+        <tr>
+          <td>
+          <kbd>Ctrl + Shift + G</kbd></td>
+          <td>Ungroup Widget</td>
+        </tr>
+        <tr>
+          <td>
+          <kbd>Ctrl + S</kbd></td>
+          <td>Save changes</td>
+        </tr>
+        <tr>
+          <td>
+          <kbd>Ctrl + Space</kbd></td>
+          <td>Quick suggestions</td>
+        </tr>
+        <tr>
+          <td><kbd>Delete</kbd></td>
+          <td>Delete widget</td>
+        </tr>
+    </tbody>
+</table>
 
 <br/>
 

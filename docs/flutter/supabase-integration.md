@@ -7,6 +7,9 @@ import check from "./img/check-mark.png"
 import close from "./img/close.png"
 
 # Supabase Integration
+:::info
+Currently, this feature is not available on <a href="https://app.dhiwise.com/sign-up" target="_blank">app.dhiwise.com.</a> Stay tuned!
+:::
 
 Supabase is an open-source Firebase alternative. With a Postgres Database, Authentication, instant APIs, Real-time subscriptions, and Storage, you can get started on your project. DhiWise supports easy Supabase integration in just 5 steps.
 
@@ -74,10 +77,10 @@ After submitting the function name, you will be asked to select a type of Supaba
 
 
 #### **Step 4:** 
-Select a collection from list of collections in `Please select collection`, which are available in your supabase application.
+Select a collection from list of collections in `Please select a collection you want to use`, which are available in your supabase application.
 
 #### **Step 5:** 
-`Select type of integration` 
+`Please select a type of record you want to use` 
 
 | Type | Description |
 | --- | --- |

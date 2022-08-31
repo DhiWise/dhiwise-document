@@ -19,22 +19,6 @@ property, choose `Authentication` which will take you to the authentication setu
 #### **Step 3:** 
 Select a type of authentication you want to set from below supported types;
 
-***Google***
-
-***Facebook***
-
-***Supabase/ Firebase Auth***
-
-*Facebook*
-
-*Google*
-
-*Sign in with email/ password*
-
-*Sign up with email/ password*
-
-<!-- typeupdate -->
-
 ### Google
 
 Select Google from the type of authentication list, and your Google authentication is setup.

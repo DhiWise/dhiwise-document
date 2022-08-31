@@ -3,6 +3,9 @@ sidebar_position: 15
 ---
 
 # File Upload
+:::info
+Currently, this feature is not available on <a href="https://app.dhiwise.com/sign-up" target="_blank">app.dhiwise.com.</a> Stay tuned!
+:::
 
 Upload files you wish in your app by setting up file upload in a few easy steps in DhiWise.
 
@@ -28,7 +31,7 @@ For the Header in Handle request, select Content-type multipart/form-data
 :::
 
 #### **Step 3:** 
-Next, select `Selected file` in `Handle request` on `formData` for file upload.
+Next, click on `Selected file` in `Handle request` on `formData` for file upload.
 
 
 #### **Step 4:** 
